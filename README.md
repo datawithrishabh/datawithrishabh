@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/rishabh-zanwar-2a015124b/">Linkedin</a> | 
   <a href="https://www.hackerrank.com/profile/zanwarrishabh">HackerRank</a>
 </p>
-<h2>Languages and Tools:</h2>
 
 
 <!---
