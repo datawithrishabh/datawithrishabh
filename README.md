@@ -4,7 +4,7 @@
 <ul> 
    <li>🌱 I’m currently learning Power BI, Machine Learning </li>
    <li>👯 I’m looking to collaborate on Data Analysis & Machine Learning Projects </li>
-   <li>💬 Ask me about Excel,SQL, Machine Learning, Python </li>
+   <li>💬 Ask me about Excel,SQL,Python </li>
    <li>📫 How to reach me zanwarrishabh@gmail.com </li>
 </ul> 
 <h2>Connect with me:</h2>
